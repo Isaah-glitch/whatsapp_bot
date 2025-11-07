@@ -1,0 +1,7 @@
+flask
+twilio
+python-dotenv
+openai
+boto3
+requests
+gunicorn
